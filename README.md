@@ -42,7 +42,7 @@ To run this project locally or deploy it to your own server, follow these steps:
 1. Clone the project repository from GitHub:
 
    ```
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/tiagoribeirof/spring-openAI.git)
+   git clone https://github.com/tiagoribeirof/spring-openAI.git
    ```
 
 2. Navigate to the project directory:
